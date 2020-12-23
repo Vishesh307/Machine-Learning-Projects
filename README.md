@@ -1,2 +1,2 @@
 # Machine-Learning-Projects
-My personal and training projects on machine learning
+This is my personal project to learn more about multiple Linear Regression and about model complexity.
